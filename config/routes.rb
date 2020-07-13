@@ -1,4 +1,3 @@
 Rails.application.routes.draw do
-  def new
-    if　
+  root "top#index"
 end
